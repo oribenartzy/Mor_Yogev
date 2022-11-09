@@ -1,0 +1,26 @@
+{
+  "name": "web_project_b_205976327",
+  "version": "1.0.0",
+  "description": "this is DB 205976327 project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mor-yogev/project_mor_yogev.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mor-yogev/project_mor_yogev/issues"
+  },
+  "homepage": "https://github.com/mor-yogev/project_mor_yogev#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "csvtojson": "^2.0.10",
+    "express": "^4.18.1",
+    "mysql2": "^2.3.3"
+  }
+}
